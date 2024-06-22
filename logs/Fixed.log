@@ -1,0 +1,314 @@
+[05-06-2024 12:18:16.273 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[05-06-2024 12:18:16.319 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:18:16.319 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[05-06-2024 12:18:17.227 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[05-06-2024 12:18:17.278 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[05-06-2024 12:18:17.300 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation7073@gmail.com
+[05-06-2024 12:18:17.326 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[05-06-2024 12:18:17.351 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[05-06-2024 12:18:17.373 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[05-06-2024 12:18:17.392 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:18:17.392 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[05-06-2024 12:18:18.061 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[05-06-2024 12:18:18.076 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[05-06-2024 12:51:04.505 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[05-06-2024 12:51:04.559 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:51:04.559 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[05-06-2024 12:51:05.403 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[05-06-2024 12:51:05.449 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[05-06-2024 12:51:05.476 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation4814@gmail.com
+[05-06-2024 12:51:05.503 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[05-06-2024 12:51:05.551 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[05-06-2024 12:51:05.575 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[05-06-2024 12:51:05.592 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:51:05.593 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[05-06-2024 12:51:06.144 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[05-06-2024 12:51:06.180 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 08:57:27.369 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 08:57:27.430 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:57:27.430 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 08:57:28.327 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 08:57:28.380 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 08:57:28.408 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation6448@gmail.com
+[06-06-2024 08:57:28.436 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 08:57:28.479 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 08:57:28.503 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 08:57:28.523 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:57:28.523 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 08:57:29.085 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 08:57:29.120 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 08:59:23.019 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 08:59:23.074 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:59:23.074 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 08:59:24.043 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 08:59:24.095 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 08:59:24.123 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation5203@gmail.com
+[06-06-2024 08:59:24.173 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 08:59:24.198 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 08:59:24.224 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 08:59:24.243 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:59:24.243 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 08:59:24.924 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 08:59:24.956 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 08:59:51.309 INFO commons.BaseTest] - test
+[06-06-2024 08:59:51.311 INFO commons.BaseTest] - test
+[06-06-2024 08:59:51.311 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 08:59:51.360 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:59:51.360 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 08:59:52.355 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 08:59:52.406 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 08:59:52.435 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation799@gmail.com
+[06-06-2024 08:59:52.463 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 08:59:52.485 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 08:59:52.534 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 08:59:52.554 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 08:59:52.554 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 08:59:53.156 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 08:59:53.188 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 08:59:53.191 INFO commons.BaseTest] - test
+[06-06-2024 08:59:53.191 INFO commons.BaseTest] - test
+[06-06-2024 08:59:53.191 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 09:00:10.643 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 09:00:10.643 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 09:00:10.976 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 09:00:11.028 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 09:00:11.058 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation799@gmail.com
+[06-06-2024 09:00:11.083 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 09:00:11.107 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 09:00:11.129 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 09:00:11.148 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 09:00:11.148 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 09:00:11.480 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:02:48.755 INFO commons.BaseTest] - test
+[06-06-2024 10:02:48.757 INFO commons.BaseTest] - test
+[06-06-2024 10:02:48.757 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 10:02:48.809 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:02:48.809 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 10:02:49.778 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 10:02:49.824 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 10:02:49.856 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation9373@gmail.com
+[06-06-2024 10:02:49.888 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 10:02:49.912 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 10:02:49.933 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 10:02:49.949 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:02:49.949 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 10:02:50.569 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:02:50.591 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 10:02:50.632 INFO commons.BaseTest] - test
+[06-06-2024 10:02:50.632 INFO commons.BaseTest] - test
+[06-06-2024 10:02:50.632 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 10:02:56.317 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 10:02:56.317 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 10:02:56.635 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 10:02:56.696 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 10:02:56.725 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation9373@gmail.com
+[06-06-2024 10:02:56.754 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 10:02:56.779 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 10:02:56.801 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 10:02:56.820 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:02:56.821 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 10:02:57.174 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:03:07.185 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:05:13.696 INFO commons.BaseTest] - test
+[06-06-2024 10:05:13.697 INFO commons.BaseTest] - test
+[06-06-2024 10:05:13.697 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 10:05:13.749 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:05:13.749 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 10:05:14.651 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 10:05:14.698 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 10:05:14.727 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation5551@gmail.com
+[06-06-2024 10:05:14.776 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 10:05:14.799 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 10:05:14.824 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 10:05:14.842 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:05:14.842 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 10:05:15.461 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:05:15.502 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 10:05:15.549 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation5551@gmail.com
+[06-06-2024 10:08:11.987 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 10:08:12.038 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:08:12.039 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 10:08:13.322 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 10:08:13.372 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 10:08:13.426 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation4410@gmail.com
+[06-06-2024 10:08:13.452 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 10:08:13.476 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 10:08:13.499 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[06-06-2024 10:08:13.516 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:08:13.516 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 10:08:14.456 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:08:14.473 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:10:04.328 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 10:10:04.373 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 10:10:04.373 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 10:10:05.238 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 10:10:05.287 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 10:10:05.336 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation4860@gmail.com
+[06-06-2024 10:10:05.362 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 10:10:05.407 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 10:10:05.430 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 10:10:06.002 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 10:10:06.035 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 20:48:47.119 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 20:48:47.170 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[06-06-2024 20:48:47.171 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[06-06-2024 20:48:48.348 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[06-06-2024 20:48:48.395 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[06-06-2024 20:48:48.427 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation6170@gmail.com
+[06-06-2024 20:48:48.477 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[06-06-2024 20:48:48.503 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[06-06-2024 20:48:48.523 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[06-06-2024 20:48:49.458 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[06-06-2024 20:48:49.492 INFO commons.BaseTest] - ---------------------- Passed -----------------------
+[06-06-2024 20:52:41.318 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 20:52:41.365 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation8769@gmail.com
+[06-06-2024 20:54:53.190 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 20:54:53.268 ERROR commons.BaseTest] - Register - Step 01: Click to Register Link
+[06-06-2024 20:54:54.170 INFO commons.BaseTest] - Register - Step 02: Enter to Email Address text with value is automation4537@gmail.com
+[06-06-2024 20:54:54.240 INFO commons.BaseTest] - Register - Step 03: Enter to Password text with value is 123456
+[06-06-2024 20:54:54.268 INFO commons.BaseTest] - Register - Step 04: Enter to Password text with value is 123456
+[06-06-2024 20:54:54.292 INFO commons.BaseTest] - Register - Step 05: Click to Register Button
+[06-06-2024 20:54:54.525 INFO commons.BaseTest] - Register - Step 06: Verify success message is displayed
+[06-06-2024 20:59:22.833 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 20:59:22.887 ERROR commons.BaseTest] - Register - Step 01: Click to Register Link
+[06-06-2024 20:59:23.768 INFO commons.BaseTest] - Register - Step 03: Enter to FirstName text with value is Automation
+[06-06-2024 20:59:23.822 INFO commons.BaseTest] - Register - Step 04: Enter to LastName text with value is FC
+[06-06-2024 20:59:23.848 INFO commons.BaseTest] - Register - Step 02: Enter to Email Address text with value is automation1987@gmail.com
+[06-06-2024 20:59:23.873 INFO commons.BaseTest] - Register - Step 03: Enter to Password text with value is 123456
+[06-06-2024 20:59:23.923 INFO commons.BaseTest] - Register - Step 04: Enter to Password text with value is 123456
+[06-06-2024 20:59:23.949 INFO commons.BaseTest] - Register - Step 05: Click to Register Button
+[06-06-2024 20:59:24.502 INFO commons.BaseTest] - Register - Step 06: Verify success message is displayed
+[09-06-2024 15:52:10.114 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 15:52:10.383 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 15:52:10.792 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 15:52:10.812 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 15:52:10.834 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation7356@gmail.com
+[09-06-2024 15:52:10.873 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 15:52:10.892 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 15:52:10.917 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 15:52:10.954 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 15:52:10.977 INFO commons.BaseTest] - Step 01 - Click to Already have an account link
+[09-06-2024 16:01:33.535 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 16:01:34.358 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 16:01:34.381 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 16:01:34.402 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 16:01:34.419 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation8690@gmail.com
+[09-06-2024 16:01:34.475 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:01:34.494 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 16:01:34.512 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 16:01:37.548 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:02:00.923 INFO commons.BaseTest] - Step 01 - Click to Already have an account link
+[09-06-2024 16:04:11.197 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 16:04:11.467 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 16:04:11.907 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 16:04:11.928 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 16:04:11.951 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation504@gmail.com
+[09-06-2024 16:04:11.988 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:04:12.008 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 16:04:12.029 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 16:04:15.064 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:04:15.104 INFO commons.BaseTest] - Step 01 - Click to Already have an account link
+[09-06-2024 16:06:19.002 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 16:06:19.263 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 16:06:19.658 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 16:06:19.676 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 16:06:19.697 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation9995@gmail.com
+[09-06-2024 16:06:19.736 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:06:19.758 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 16:06:19.778 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 16:06:22.822 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:06:22.856 INFO commons.BaseTest] - Step 01 - Open Home Page
+[09-06-2024 16:06:26.335 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Undisplayed
+[09-06-2024 16:06:51.413 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Undisplayed
+[09-06-2024 16:07:16.447 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Undisplayed
+[09-06-2024 16:07:41.492 INFO commons.BaseTest] - Step 05 - Verify Confirm email textbox is Undisplayed
+[09-06-2024 16:08:06.529 INFO commons.BaseTest] - Step 06 - Verify Password textbox is Undisplayed
+[09-06-2024 16:09:07.494 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 16:09:08.326 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 16:09:08.351 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 16:09:08.370 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 16:09:08.388 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation4768@gmail.com
+[09-06-2024 16:09:08.443 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:09:08.463 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 16:09:08.482 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 16:09:11.524 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:09:11.545 INFO commons.BaseTest] - Step 01 - Open Home Page
+[09-06-2024 16:09:15.131 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Undisplayed
+[09-06-2024 16:09:20.163 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Undisplayed
+[09-06-2024 16:09:25.194 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Undisplayed
+[09-06-2024 16:09:30.222 INFO commons.BaseTest] - Step 05 - Verify Confirm email textbox is Undisplayed
+[09-06-2024 16:09:35.244 INFO commons.BaseTest] - Step 06 - Verify Password textbox is Undisplayed
+[10-06-2024 20:48:46.433 INFO commons.BaseTest] - OS name = windows 11
+[10-06-2024 20:48:46.435 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (e90a52db-322e-4107-ae08-8176f49fc68b)
+[17-06-2024 09:34:17.245 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 09:34:17.247 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (e1d39b0c810c30a46b89198edb79fd58)
+[17-06-2024 09:35:07.572 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 09:35:07.573 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (78bc07b6-d23d-419a-890d-8818cfb4ff58)
+[17-06-2024 10:48:51.307 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 10:48:51.309 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (8a7eef49-e7ca-4764-b3de-f3e22891cf6c)
+[17-06-2024 10:51:47.442 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 10:51:47.443 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (f9f2484f-371f-4f48-bac6-213891ccd432)
+[17-06-2024 14:10:41.301 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:10:41.303 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (f6646d97-bbd9-4c8e-b4d6-a99480ac40f3)
+[17-06-2024 14:23:35.031 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:23:35.034 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (6ead96b8-32ea-4fcc-a536-938a03364183)
+[17-06-2024 14:25:28.291 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:25:28.293 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (f8197387-abd1-4831-a465-c1c36d07cd33)
+[17-06-2024 14:27:26.704 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:27:26.705 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (324fda76-396b-40df-9f30-027d73afb0c8)
+[17-06-2024 14:31:15.410 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:31:15.412 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (5c76269b-e8a6-468b-aa73-3a15e5ea0887)
+[17-06-2024 14:40:49.471 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:40:49.475 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (a819fd7d-020f-4149-bb2a-cc9cd0d05544)
+[17-06-2024 14:48:13.165 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:48:13.175 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (09b04496-a7c1-4ce9-8505-448f5b05cd31)
+[17-06-2024 14:50:15.950 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:50:15.950 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (dc7d78f3-5722-408b-a420-e8733665ae62)
+[17-06-2024 14:52:19.534 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:52:19.534 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (fd44288b-db82-42a6-a83d-7bccd3160191)
+[17-06-2024 14:55:12.402 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 14:55:12.402 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (ad948932-e504-45a0-81ae-8b95f9cc1f87)
+[17-06-2024 15:00:11.990 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 15:00:11.990 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (c27d847d-68c2-4db9-b9d9-e09fc0406ae4)
+[17-06-2024 15:04:12.628 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 15:04:12.638 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (73c4ab92-17db-48eb-a1f2-a6bc2b64aab9)
+[17-06-2024 15:09:11.944 INFO commons.BaseTest] - OS name = windows 11
+[17-06-2024 15:09:11.945 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (03a0b08a-bbf5-441c-b99a-f948f5e78ef1)
+[18-06-2024 09:35:23.018 INFO commons.BaseTest] - OS name = windows 11
+[18-06-2024 09:35:23.020 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (6c5dacda-d054-4a42-8143-cdbc2ea139f2)
+[18-06-2024 09:45:01.611 INFO commons.BaseTest] - OS name = windows 11
+[18-06-2024 09:45:01.613 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (272d9f2f-c576-4994-960d-c48630a0d338)
+[18-06-2024 10:05:06.450 INFO commons.BaseTest] - OS name = windows 11
+[18-06-2024 10:05:06.452 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (ceb90684-b9f1-465c-ae61-fc43ca3d873b)
+[18-06-2024 12:18:27.397 INFO commons.BaseTest] - OS name = windows 11
+[18-06-2024 12:18:27.399 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (611551ee-df35-4b5a-a3a8-cc4528271e2f)
+[18-06-2024 12:44:08.443 INFO commons.BaseTest] - OS name = windows 11
+[18-06-2024 12:44:08.444 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (c1048df3-fa44-4370-b6de-443b3eab85d5)
+[22-06-2024 14:03:25.582 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:03:25.584 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (9f4dca5b9e0b7fd92efb4b8957f1df89)
+[22-06-2024 14:03:58.627 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:03:58.629 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (84edf2aa9a675d455f51be131a8970f1)
+[22-06-2024 14:05:50.103 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:05:50.108 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (8e7e6de9dc1bfd92cb2b43266096183a)
+[22-06-2024 14:08:27.409 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:08:27.412 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (9b0f597d-e0c2-4345-b55c-9c4911baa456)
+[22-06-2024 14:09:09.208 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:09:09.210 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (7ad4904fd54633ccd924e64198415f64)
+[22-06-2024 14:12:11.670 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:11.674 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (d403537c3474bf4e5bddce6b4e5dd1b7)
+[22-06-2024 14:12:18.051 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:18.051 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (4212408c-906c-4930-b182-2fd574805a54)
+[22-06-2024 14:12:24.358 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:24.358 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (148d962a7c4895047bd862d64f5a6f6d)
+[22-06-2024 14:15:39.269 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:15:39.273 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (a956272883569678adfb1584121fceb9)
+[22-06-2024 14:15:45.225 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:15:45.225 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (57acbf0e-f513-4a0d-8a59-80c8cff22ff1)
+[22-06-2024 14:15:52.359 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:15:52.360 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (310e608e433a4e76b2b614318e633d66)
+[22-06-2024 14:18:48.739 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:18:48.747 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (58d7041cac3ff848bdf8ce90b1e2eca9)
+[22-06-2024 14:18:54.900 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:18:54.900 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (e86cc454-e36e-46bf-abdb-2885c2132d8c)
+[22-06-2024 14:19:01.366 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:19:01.366 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (b533cf8841a095863ee6749604d367c3)

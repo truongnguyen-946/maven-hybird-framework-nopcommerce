@@ -1,0 +1,10 @@
+[09-06-2024 15:52:10.114 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 15:52:10.383 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 15:52:10.792 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 15:52:10.812 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 15:52:10.834 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation7356@gmail.com
+[09-06-2024 15:52:10.873 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 15:52:10.892 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 15:52:10.917 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 15:52:10.954 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 15:52:10.977 INFO commons.BaseTest] - Step 01 - Click to Already have an account link

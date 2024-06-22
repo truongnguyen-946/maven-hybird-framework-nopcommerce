@@ -1,0 +1,6 @@
+[22-06-2024 14:12:11.670 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:11.674 INFO commons.BaseTest] - Driver instance name = chromedriver: chrome on windows (d403537c3474bf4e5bddce6b4e5dd1b7)
+[22-06-2024 14:12:18.051 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:18.051 INFO commons.BaseTest] - Driver instance name = firefoxdriver: firefox on windows (4212408c-906c-4930-b182-2fd574805a54)
+[22-06-2024 14:12:24.358 INFO commons.BaseTest] - OS name = windows 11
+[22-06-2024 14:12:24.358 INFO commons.BaseTest] - Driver instance name = edgedriver: microsoftedge on windows (148d962a7c4895047bd862d64f5a6f6d)

@@ -1,0 +1,13 @@
+[05-06-2024 12:51:04.505 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[05-06-2024 12:51:04.559 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:51:04.559 ERROR commons.BaseTest] - Register - Step 02: Click to Register Link
+[05-06-2024 12:51:05.403 INFO commons.BaseTest] - Register - Step 06: Enter to FirstName text with value is Automation
+[05-06-2024 12:51:05.449 INFO commons.BaseTest] - Register - Step 07: Enter to LastName text with value is FC
+[05-06-2024 12:51:05.476 INFO commons.BaseTest] - Register - Step 08: Enter to Email Address text with value is automation4814@gmail.com
+[05-06-2024 12:51:05.503 INFO commons.BaseTest] - Register - Step 09: Enter to Password text with value is 123456
+[05-06-2024 12:51:05.551 INFO commons.BaseTest] - Register - Step 10: Enter to Password text with value is 123456
+[05-06-2024 12:51:05.575 INFO commons.BaseTest] - Register - Step 11: Verify Register Button is Displayed 
+[05-06-2024 12:51:05.592 INFO commons.BaseTest] - ---------------------- Failed -----------------------
+[05-06-2024 12:51:05.593 INFO commons.BaseTest] - Register - Step 12: Click to Register Button
+[05-06-2024 12:51:06.144 INFO commons.BaseTest] - Register - Step 13: Verify success message is displayed
+[05-06-2024 12:51:06.180 INFO commons.BaseTest] - ---------------------- Passed -----------------------

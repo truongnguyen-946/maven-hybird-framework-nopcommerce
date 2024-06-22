@@ -1,0 +1,7 @@
+[06-06-2024 20:54:53.190 ERROR commons.BaseTest] - Register - Step 01: Verify Register Link is Displayed
+[06-06-2024 20:54:53.268 ERROR commons.BaseTest] - Register - Step 01: Click to Register Link
+[06-06-2024 20:54:54.170 INFO commons.BaseTest] - Register - Step 02: Enter to Email Address text with value is automation4537@gmail.com
+[06-06-2024 20:54:54.240 INFO commons.BaseTest] - Register - Step 03: Enter to Password text with value is 123456
+[06-06-2024 20:54:54.268 INFO commons.BaseTest] - Register - Step 04: Enter to Password text with value is 123456
+[06-06-2024 20:54:54.292 INFO commons.BaseTest] - Register - Step 05: Click to Register Button
+[06-06-2024 20:54:54.525 INFO commons.BaseTest] - Register - Step 06: Verify success message is displayed

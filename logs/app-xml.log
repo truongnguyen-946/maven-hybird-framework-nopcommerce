@@ -1,0 +1,12 @@
+[ERROR] 05-06-2024 12:06:52 [main] Log - Register - Step 01: Verify Register Link is Displayed
+[ERROR] 05-06-2024 12:06:52 [main] Log - Register - Step 02: Click to Register Link
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 06: Enter to FirstName text with value is Automation
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 07: Enter to LastName text with value is FC
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 08: Enter to Email Address text with value is automation6994@gmail.com
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 09: Enter to Password text with value is 123456
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 10: Enter to Password text with value is 123456
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 11: Verify Register Button is Displayed 
+[INFO ] 05-06-2024 12:06:52 [main] BaseTest - ---------------------- Failed -----------------------
+[INFO ] 05-06-2024 12:06:52 [main] Log - Register - Step 12: Click to Register Button
+[INFO ] 05-06-2024 12:06:53 [main] Log - Register - Step 13: Verify success message is displayed
+[INFO ] 05-06-2024 12:06:53 [main] BaseTest - ---------------------- Passed -----------------------

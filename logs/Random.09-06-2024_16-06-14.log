@@ -1,0 +1,15 @@
+[09-06-2024 16:06:19.002 INFO commons.BaseTest] - Step 01 - Click to Create new account button
+[09-06-2024 16:06:19.263 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Displayed
+[09-06-2024 16:06:19.658 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Displayed
+[09-06-2024 16:06:19.676 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Displayed
+[09-06-2024 16:06:19.697 INFO commons.BaseTest] - Step 05 - Enter Email textbox with valueautomation9995@gmail.com
+[09-06-2024 16:06:19.736 INFO commons.BaseTest] - Step 06 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:06:19.758 INFO commons.BaseTest] - Step 07 - Verify Password textbox is Displayed
+[09-06-2024 16:06:19.778 INFO commons.BaseTest] - Step 01 - Clear data Email textbox with value
+[09-06-2024 16:06:22.822 INFO commons.BaseTest] - Step 02 - Verify Confirm email textbox is Displayed
+[09-06-2024 16:06:22.856 INFO commons.BaseTest] - Step 01 - Open Home Page
+[09-06-2024 16:06:26.335 INFO commons.BaseTest] - Step 02 - Verify FirstName textbox is Undisplayed
+[09-06-2024 16:06:51.413 INFO commons.BaseTest] - Step 03 - Verify Surname textbox is Undisplayed
+[09-06-2024 16:07:16.447 INFO commons.BaseTest] - Step 04 - Verify Email textbox is Undisplayed
+[09-06-2024 16:07:41.492 INFO commons.BaseTest] - Step 05 - Verify Confirm email textbox is Undisplayed
+[09-06-2024 16:08:06.529 INFO commons.BaseTest] - Step 06 - Verify Password textbox is Undisplayed

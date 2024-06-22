@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[OS name = windows 11]]>
+    </line>
+    <line>
+      <![CDATA[Driver instance name = chromedriver: chrome on windows (d403537c3474bf4e5bddce6b4e5dd1b7)]]>
+    </line>
+    <line>
+      <![CDATA[OS name = windows 11]]>
+    </line>
+    <line>
+      <![CDATA[Driver instance name = firefoxdriver: firefox on windows (4212408c-906c-4930-b182-2fd574805a54)]]>
+    </line>
+    <line>
+      <![CDATA[OS name = windows 11]]>
+    </line>
+    <line>
+      <![CDATA[Driver instance name = edgedriver: microsoftedge on windows (148d962a7c4895047bd862d64f5a6f6d)]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-22T14:12:05 ICT" name="NopCommerce" finished-at="2024-06-22T14:12:24 ICT" duration-ms="19550">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T14:12:05 ICT" name="Run on chrome" finished-at="2024-06-22T14:12:11 ICT" duration-ms="6833">
+      <class name="com.nopcommerce.account.Level_18_Extent_V5">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@478b0739]" started-at="2024-06-22T14:12:05 ICT" name="BeforeClass" finished-at="2024-06-22T14:12:08 ICT" duration-ms="3700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="User_01_Register_Validate(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@478b0739]" started-at="2024-06-22T14:12:08 ICT" name="User_01_Register_Validate" finished-at="2024-06-22T14:12:10 ICT" duration-ms="1346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_01_Register_Validate(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_01_Register_Validate -->
+        <test-method signature="User_02_Register_Success(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@478b0739]" started-at="2024-06-22T14:12:10 ICT" name="User_02_Register_Success" finished-at="2024-06-22T14:12:11 ICT" duration-ms="1377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_02_Register_Success(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_02_Register_Success -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@478b0739]" started-at="2024-06-22T14:12:11 ICT" name="AfterClass" finished-at="2024-06-22T14:12:11 ICT" duration-ms="320" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OS name = windows 11]]>
+            </line>
+            <line>
+              <![CDATA[Driver instance name = chromedriver: chrome on windows (d403537c3474bf4e5bddce6b4e5dd1b7)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.nopcommerce.account.Level_18_Extent_V5 -->
+    </test> <!-- Run on chrome -->
+    <test started-at="2024-06-22T14:12:12 ICT" name="Run on firefox" finished-at="2024-06-22T14:12:18 ICT" duration-ms="6145">
+      <class name="com.nopcommerce.account.Level_18_Extent_V5">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4f379769]" started-at="2024-06-22T14:12:12 ICT" name="BeforeClass" finished-at="2024-06-22T14:12:15 ICT" duration-ms="3263" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="User_01_Register_Validate(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4f379769]" started-at="2024-06-22T14:12:15 ICT" name="User_01_Register_Validate" finished-at="2024-06-22T14:12:16 ICT" duration-ms="1071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_01_Register_Validate(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_01_Register_Validate -->
+        <test-method signature="User_02_Register_Success(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4f379769]" started-at="2024-06-22T14:12:16 ICT" name="User_02_Register_Success" finished-at="2024-06-22T14:12:18 ICT" duration-ms="1062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_02_Register_Success(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_02_Register_Success -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4f379769]" started-at="2024-06-22T14:12:18 ICT" name="AfterClass" finished-at="2024-06-22T14:12:18 ICT" duration-ms="744" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OS name = windows 11]]>
+            </line>
+            <line>
+              <![CDATA[Driver instance name = firefoxdriver: firefox on windows (4212408c-906c-4930-b182-2fd574805a54)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.nopcommerce.account.Level_18_Extent_V5 -->
+    </test> <!-- Run on firefox -->
+    <test started-at="2024-06-22T14:12:18 ICT" name="Run on edge" finished-at="2024-06-22T14:12:24 ICT" duration-ms="5888">
+      <class name="com.nopcommerce.account.Level_18_Extent_V5">
+        <test-method is-config="true" signature="BeforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4b515eab]" started-at="2024-06-22T14:12:18 ICT" name="BeforeClass" finished-at="2024-06-22T14:12:21 ICT" duration-ms="3095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="User_01_Register_Validate(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4b515eab]" started-at="2024-06-22T14:12:21 ICT" name="User_01_Register_Validate" finished-at="2024-06-22T14:12:23 ICT" duration-ms="1101" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_01_Register_Validate(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_01_Register_Validate -->
+        <test-method signature="User_02_Register_Success(java.lang.reflect.Method)[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4b515eab]" started-at="2024-06-22T14:12:23 ICT" name="User_02_Register_Success" finished-at="2024-06-22T14:12:24 ICT" duration-ms="1345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.nopcommerce.account.Level_18_Extent_V5.User_02_Register_Success(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_02_Register_Success -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.nopcommerce.account.Level_18_Extent_V5@4b515eab]" started-at="2024-06-22T14:12:24 ICT" name="AfterClass" finished-at="2024-06-22T14:12:24 ICT" duration-ms="342" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OS name = windows 11]]>
+            </line>
+            <line>
+              <![CDATA[Driver instance name = edgedriver: microsoftedge on windows (148d962a7c4895047bd862d64f5a6f6d)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.nopcommerce.account.Level_18_Extent_V5 -->
+    </test> <!-- Run on edge -->
+  </suite> <!-- NopCommerce -->
+</testng-results>

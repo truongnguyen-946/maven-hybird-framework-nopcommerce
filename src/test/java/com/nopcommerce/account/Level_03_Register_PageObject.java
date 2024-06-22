@@ -1,0 +1,175 @@
+package com.nopcommerce.account;
+
+import commons.BasePage;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+import pageObjects.user.CustomerPageObject;
+import pageObjects.user.HomePageObject;
+import pageObjects.user.UserLoginPageObject;
+import pageObjects.user.RegisterPageObject;
+
+import java.util.Random;
+import java.util.concurrent.TimeUnit;
+
+public class Level_03_Register_PageObject extends BasePage {
+
+    WebDriver driver;
+    private HomePageObject homePage;
+    private RegisterPageObject registerPage;
+    private UserLoginPageObject loginPage;
+    private CustomerPageObject customerPage;
+
+    private String emailAddress = getRandomEmail();
+
+
+    @BeforeClass
+    public void BeforeClass() {
+        String path = System.getProperty("user.dir");
+        System.setProperty("webdriver.gecko.driver", path + "\\browserDrivers\\geckodriver.exe");
+
+        driver = new FirefoxDriver();
+        driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+        openPageUrl(driver, "https://demo.nopcommerce.com/");
+        homePage = new HomePageObject(driver);
+
+    }
+
+    @Test
+    public void User_01_Register_Empty_Data() {
+
+        homePage.clickToRegisterLink();
+
+        registerPage = new RegisterPageObject(driver);
+        registerPage.clickToElementRegisterButton();
+
+        Assert.assertEquals(registerPage.getTextFirstNameErrorMessage(),"First name is required.");
+        Assert.assertEquals(registerPage.getTextLastNameErrorMessage(),"Last name is required.");
+        Assert.assertEquals(registerPage.getTextEmailErrorMessage(),"Email is required.");
+        Assert.assertEquals(registerPage.getTextPasswordErrorMessage(),"Password is required.");
+        Assert.assertEquals(registerPage.getTextConfirmPasswordErrorMessage(),"Password is required.");
+
+    }
+
+    @Test
+    public void User_02_Register_Invalid_Email() {
+        registerPage.clickToNopCommerceLogo();
+
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToRegisterLink();
+
+        registerPage = new RegisterPageObject(driver);
+
+        registerPage.enterToFirstNameTextBox("Automation");
+        registerPage.enterToLastNameTextBox("FC");
+        registerPage.enterToEmailTextBox("abcdef@abcde@abc");
+        registerPage.enterToPasswordTextBox("123456");
+        registerPage.enterToConfirmPasswordTextBox("123456");
+
+        Assert.assertEquals(registerPage.getTextEmailErrorMessage(), "Wrong email");
+
+    }
+
+    @Test
+    public void User_03_Register_Invalid_Password() {
+
+        registerPage.clickToNopCommerceLogo();
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToRegisterLink();
+        registerPage = new RegisterPageObject(driver);
+
+        registerPage.enterToFirstNameTextBox("Automation");
+        registerPage.enterToLastNameTextBox("FC");
+        registerPage.enterToEmailTextBox(emailAddress);
+        registerPage.enterToPasswordTextBox("1234");
+        registerPage.enterToConfirmPasswordTextBox("123456");
+
+        Assert.assertEquals(registerPage.getTextPasswordErrorMessage(),"Password must meet the following rules:\nmust have at least 6 characters");
+
+    }
+
+    @Test
+    public void User_04_Register_Incorrect_Confirm_Password() {
+
+        registerPage.clickToNopCommerceLogo();
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToRegisterLink();
+        registerPage = new RegisterPageObject(driver);
+
+        registerPage.enterToFirstNameTextBox("Automation");
+        registerPage.enterToLastNameTextBox("FC");
+        registerPage.enterToEmailTextBox(emailAddress);
+        registerPage.enterToPasswordTextBox("123456");
+        registerPage.enterToConfirmPasswordTextBox("12345678");
+
+        registerPage.clickToElementRegisterButton();
+
+        Assert.assertEquals(registerPage.getTextConfirmPasswordErrorMessage(),"The password and confirmation password do not match.");
+
+    }
+
+    @Test
+    public void User_05_Register_Success() {
+        registerPage.clickToNopCommerceLogo();
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToRegisterLink();
+        registerPage = new RegisterPageObject(driver);
+
+        registerPage.enterToFirstNameTextBox("Automation");
+        registerPage.enterToLastNameTextBox("FC");
+        registerPage.enterToEmailTextBox(emailAddress);
+        registerPage.enterToPasswordTextBox("123456");
+        registerPage.enterToConfirmPasswordTextBox("123456");
+
+        registerPage.clickToElementRegisterButton();
+
+        Assert.assertEquals(registerPage.getTextRegistrationCompleted(),"Your registration completed");
+
+    }
+
+
+
+    @Test
+    public void User_06_Login() {
+        registerPage.clickToNopCommerceLogo();
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToLoginLink();
+        loginPage = new UserLoginPageObject(driver);
+
+        loginPage.enterToEmailTextBox(emailAddress);
+        loginPage.enterToPasswordTextBox("123456");
+
+        loginPage.clickToLoginButton();
+
+        homePage = new HomePageObject(driver);
+
+        homePage.clickToMyAccountLink();
+
+        customerPage = new CustomerPageObject(driver);
+
+        Assert.assertEquals(customerPage.getFirstNameTextBoxAttributeValue(),"Automation");
+        Assert.assertEquals(customerPage.getLastNameTextBoxAttributeValue(),"FC");
+        Assert.assertEquals(customerPage.getEmailAddressTextBoxAttributeValue(),emailAddress);
+
+    }
+
+    public String getRandomEmail() {
+        Random rand = new Random();
+        return "automation" + rand.nextInt(9999) + "@gmail.com";
+    }
+
+    @AfterClass
+    public void AfterClass() {
+        driver.quit();
+    }
+
+
+}

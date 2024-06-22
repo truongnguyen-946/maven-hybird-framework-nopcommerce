@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="NopCommerce">
+	<test name="Run on firefox">
+		
+		<listeners>
+			<listener class-name='commons.MethodListener'/>
+			<listener class-name='reportConfig.ExtentTestListener'/>
+		</listeners>
+
+		<parameter name='url' value='http://localhost/orangehrm/orangehrm-5.6.1' />
+
+		<parameter name='browser' value='firefox' />
+		<classes>
+			<class
+				name="com.orangehrm.employee.Level_24_Employee" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

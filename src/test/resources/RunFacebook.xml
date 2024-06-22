@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="NopCommerce">
+	<test name="Run on firefox">
+
+		<parameter name='url' value='https://www.facebook.com/' />
+		
+		<parameter name='browser' value='Firefox' />
+		<classes>
+			<class
+				name="com.facebook.home.Level_20_Undisplayed_Element" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
